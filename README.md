@@ -22,6 +22,7 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 ## Screens
 ![1](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/1.png) ![2](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/2.png)
 ![3](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/3.png)
+![4](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/4.png)
 
 ## Gesty Mode in action!
 ![Gesty-Mode GIF](https://github.com/yashprakash13/Gesty/blob/master/gestymode.gif)
