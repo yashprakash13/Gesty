@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mainFragments.HomeFragment">
+
+
+    <com.yarolegovich.discretescrollview.DiscreteScrollView
+        android:id="@+id/picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:padding="@dimen/padding_cardview"
+        tools:listitem="@layout/single_book_cover_view"
+        android:layout_alignParentTop="true"/>
+
+    <Button
+        android:id="@+id/open_book"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/picker"
+        android:padding="@dimen/padding_large"
+        android:layout_margin="@dimen/margin_large"
+        android:text="@string/open_book"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:background="@drawable/white_round_back"
+        android:elevation="@dimen/elevation"/>
+
+    <Button
+        android:id="@+id/newBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_large"
+        android:layout_margin="@dimen/margin_large"
+        android:text="@string/add_a_new_book"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:background="@drawable/white_round_back"
+        android:elevation="@dimen/elevation"
+        android:layout_alignParentBottom="true"/>
+
+
+</RelativeLayout>

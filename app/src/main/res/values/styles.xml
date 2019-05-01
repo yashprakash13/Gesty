@@ -1,0 +1,52 @@
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:fontFamily">@font/metropolis_font</item>
+
+    </style>
+
+    <style name="BottomNavigation">
+        <item name="android:background">@color/white</item>
+        <item name="itemIconTint">@color/nav_bar_color</item>
+        <item name="itemTextColor">@color/nav_bar_color</item>
+        <item name="itemBackground">@drawable/nav_bar_back</item>
+        <item name="paddingStart">@dimen/bottom_navigation_padding</item>
+        <item name="paddingEnd">@dimen/bottom_navigation_padding</item>
+        <item name="android:elevation">@dimen/elevation</item>
+    </style>
+
+    <style name="DarkDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">#FFFFFF</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <!-- Used for the background -->
+        <item name="android:background">#424242</item>
+        <item name="editTextColor">#FFFFFF</item>
+        <item name="titleTextColor">#FFFFFF</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+        <item name="textColorAlertDialogListItem">#FFFFFF</item>
+        <item name="android:textColorAlertDialogListItem">#FFFFFF</item>
+    </style>
+    <style name="LightDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">#000000</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#000000</item>
+        <!-- Used for the background -->
+        <item name="android:background">#eeeeee</item>
+    </style>
+
+</resources>

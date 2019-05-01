@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<resources>
+    <string-array name="scroll_mode">
+        <item>Slow</item>
+        <item>Fast</item>
+        <item>Pretty Fast</item>
+    </string-array>
+
+    <string-array name="scroll_mode_values">
+        <item>97</item>
+        <item>67</item>
+        <item>49</item>
+    </string-array>
+
+</resources>

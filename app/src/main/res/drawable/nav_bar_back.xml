@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@android:color/white"/>
+    <item android:state_pressed="false" android:drawable="@android:color/darker_gray"/>
+</selector>

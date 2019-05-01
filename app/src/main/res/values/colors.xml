@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#E27D9F</color>
+    <color name="colorAccent">#9DE6A0</color>
+    <color name="gray">#C4B3B3</color>
+    <color name="pink">#E27D9F</color>
+    <color name="darkPink">#E91E63</color>
+    <color name="indigo">#6DB5EE</color>
+    <color name="black">#2d2d2d</color>
+    <color name="white">#fff</color>
+
+</resources>

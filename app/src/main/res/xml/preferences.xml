@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="@string/how_fast_do_you_read"
+        android:key="@string/scrollMode"
+        android:summary="@string/speed_summary"
+        android:icon="@drawable/ic_scroll_24dp"
+        android:entries="@array/scroll_mode"
+        android:entryValues="@array/scroll_mode_values"/>
+
+</PreferenceScreen>

@@ -1,0 +1,40 @@
+<!--
+  ~ Copyright (c) @ 2019 Yash Prakash
+  -->
+
+<resources>
+    <string name="app_name">Gesty</string>
+    <string name="title_home">Home</string>
+    <string name="title_my_library">My Library</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="gesty_mode">Gesty Mode</string>
+    <string name="settings">Settings</string>
+    <string name="add_a_new_book">Add a new Book</string>
+    <string name="okay_string">Okay</string>
+    <string name="no_string">no</string>
+    <string name="permissions_needed">Permissions are required to open an EBook.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="give_permission_storage">Please give permission to read your storage.</string>
+    <string name="go_full_screen">Go Full Screen</string>
+    <string name="permissions_for_gesty_mode_needed">Permissions are needed for Gesty Mode.</string>
+    <string name="give_camera_permission">Permission for Camera is needed for Gesty Mode to be enabled.</string>
+    <string name="slow">Slow</string>
+    <string name="fast">Fast</string>
+    <string name="pretty_fast">Pretty fast</string>
+    <string name="how_fast_can_you_read">How fast can you read?</string>
+    <string name="remember_my_choice">Remember my choice</string>
+    <string name="scrollMode">scroll_mode</string>
+    <string name="remember_scroll">scroll_remember</string>
+    <string name="g_mode_off">Gesty Mode is OFF.</string>
+    <string name="g_mode_on">Gesty Mode is ON.</string>
+    <string name="gesty_folder_name">Gesty Library</string>
+    <string name="write_permission">Permission for making offline library required.</string>
+    <string name="permisision_needed_for_writing">Permissions for making your offline library is needed.</string>
+    <string name="open_book">Open Book</string>
+    <string name="settings_lable">Settings</string>
+    <string name="scroll_mode_integer">scroll_mode_integer</string>
+    <string name="resuming_scrolling">Resuming scrolling in 3 seconds...</string>
+    <string name="how_fast_do_you_read">How fast can you read?</string>
+    <string name="speed_summary">The speed with which a page in Gesty Mode will auto scroll.</string>
+
+</resources>
