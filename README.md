@@ -18,7 +18,10 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 * The Auto Scroll mode is enabled with the Gesty Mode
   * It supports enabling and disabling by hand gesture, and
   * Altering the speed of scroll for reading
- 
+
+### Download
+[Download the app from here](https://github.com/yashprakash13/Gesty/releases/download/v1.0/gesty-release.apk)
+
 ## Screens
 ![1](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/1.png) ![2](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/2.png)
 ![3](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/3.png)
