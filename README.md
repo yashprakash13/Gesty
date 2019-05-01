@@ -32,7 +32,7 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 
 #### TODO
 This project can have many extra features for becoming a good ebook reader app:
-* Develop the my library fragment
+* Develop the *My library* fragment
 * Add other reading customization features, like a dark mode.
 
 ### Contributions
