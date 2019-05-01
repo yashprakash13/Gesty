@@ -25,10 +25,17 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 ## Screens
 ![1](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/1.png) ![2](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/2.png)
 ![3](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/3.png)
-![4](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/4.png)
+![4](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/4.png) ![5](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/5.png)
 
 ## Gesty Mode in action!
 ![Gesty-Mode GIF](https://github.com/yashprakash13/Gesty/blob/master/gestymode.gif)
+
+### How to use the Gesty Mode
+> * Enable Gesty Mode from the Reading action bar.
+> * The Scrolling menu appears - Select the scrolling speed you like.
+> * The scroll starts; to turn to the next page, simply hover your hand over the front camera and take it off immediately.
+> * To turn to the previous page, hover your hand for two seconds and then take it off.
+> * To stop the scrolling or to start it back on, hover your hand for three or more seconds over the front camera.
 
 #### TODO
 This project can have many extra features for becoming a good ebook reader app:
