@@ -24,3 +24,14 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 ![3](https://github.com/yashprakash13/Gesty/blob/master/Screenshots/3.png)
 
 ## Gesty Mode in action!
+![Gesty-Mode GIF](https://github.com/yashprakash13/Gesty/blob/master/gestymode.gif)
+
+#### TODO
+This project can have many extra features for becoming a good ebook reader app:
+* Develop the my library fragment
+* Add other reading customization features, like a dark mode.
+
+### Contributions
+Contributions to this app are very welcome. Send a pull request to show what work you've done in improving this project.
+
+## License
