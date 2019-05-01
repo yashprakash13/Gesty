@@ -35,6 +35,11 @@ This project can have many extra features for becoming a good ebook reader app:
 ### Contributions
 Contributions to this app are very welcome. Send a pull request to show what work you've done in improving this project.
 
+### Thank you so much
+* DiscreteScrollView   https://github.com/yarolegovich/DiscreteScrollView
+* RuntimePermission    https://github.com/florent37/RuntimePermission
+* FilePicker           https://github.com/Angads25/android-filepicker
+
 ## License
 BSD 3-Clause License
 
