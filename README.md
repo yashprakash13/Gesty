@@ -18,6 +18,17 @@ A basic EBook Reader app with hands off reading feature - use gestures to contro
 * The Auto Scroll mode is enabled with the Gesty Mode
   * It supports enabling and disabling by hand gesture, and
   * Altering the speed of scroll for reading
+ 
+## Package details
+* `utils` folder containing:
+  - file of application wide constants in use
+  - Swipe Detector using the Proximity sensor of the phone to detect hand swipes
+* `mainFragments` directory with :
+  - model class for each book 
+  - UI screen, adapters for displaying book covers in horizontal recyclerview
+* `library` folder containing the java class which uses async to add a new book to the library
+* `gestyMode` which defines the different kinds of swipe gestures user can apply for page turning(next and previous) and for adjusting the page scrolling speed. 
+* `settings` for app wide preferences - stores user choice of how fast they can read - thus adjusting speed of scroll based on that.
 
 ### Download
 [Download the app from here](https://github.com/yashprakash13/Gesty/releases/download/v1.0/app-release.apk)
