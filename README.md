@@ -1,7 +1,7 @@
 # Gesty
 ![Something](https://github.com/yashprakash13/Gesty/blob/master/logo.jpg "Gesty - The Reader")
 
-A basic EBook Reader app with hands off reading feature - use gestures to control the page turn and use automatic scrolling for pages with adjustable speed of scroll.
+A basic Android EBook Reader app with hands off reading feature - use gestures to control the page turn and use automatic scrolling for pages with adjustable speed of scroll.
 
 ## Features:
 * Functions as a standard Epub Book Reader
